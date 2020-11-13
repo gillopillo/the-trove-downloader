@@ -6,6 +6,7 @@ Automatic downloads files from The Trove Rpg Books ([https://thetrove.net/](http
 
  - Download the latest release [here](https://github.com/felipegiacomozzi/the-trove-downloader/releases)
  - Execute **TheDroveDownloader.exe** and enter values as prompted.
+ - Use the following synthax to inform excluded folders: ___________ example: ____________
 
 ## Troubleshoot
 In case any problems occur during the execution of the the-trove-downloader, an error file will be generated. For help, please upload this error file [here](https://github.com/felipegiacomozzi/the-trove-downloader/issues) with any more details about the problem.
